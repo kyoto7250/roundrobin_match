@@ -9,10 +9,10 @@ dependencies = []
 keywords = ["algorithm", "cli"]
 
 authors = [
-  {name = "kyoto7250", email = "<50972773+kyoto7250@users.noreply.github.com>"},
+  {name = "kyoto7250", email = "50972773+kyoto7250@users.noreply.github.com"},
 ]
 maintainers = [
-  {name = "kyoto7250", email = "<50972773+kyoto7250@users.noreply.github.com>"},
+  {name = "kyoto7250", email = "50972773+kyoto7250@users.noreply.github.com"},
 ]
 
 [project.urls]
